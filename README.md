@@ -89,6 +89,6 @@ Inspired by customer retention problems in the telecom sector.
 
 ## Author
 
-Nouman Bashir
-noumanbashir923@gmail.com
+**Nouman Bashir**  
+noumanbashir923@gmail.com  
 www.linkedin.com/in/nouman-bashir

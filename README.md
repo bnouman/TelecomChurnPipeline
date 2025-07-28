@@ -75,7 +75,7 @@ Target label: `Churn` (Yes/No)
 ```python
 from joblib import load
 model = load("best_churn_pipeline.joblib")
-model.predict(X_new)
+model.predict(X_new) // X_new is the new dataset that will be used for prediction
 ```
 
 ---
